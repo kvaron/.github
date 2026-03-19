@@ -2,7 +2,7 @@
 
 **Tools for power systems engineering, grid visualization, and energy infrastructure.**
 
-[kvaron.com](https://kvaron.com) | Founded by [Jeff Parker, PE](https://eeparker.dev)
+[kvaron.com](https://kvaron.com)
 
 ---
 
