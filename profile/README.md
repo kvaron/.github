@@ -10,13 +10,15 @@
 
 **kVARon** develops software for power systems analysis, operational visualization, and grid security. Our work is grounded in decades of building critical infrastructure systems: real-time operational displays, energy market platforms, and the enterprise architecture underneath them.
 
-### Grafana Plugins
-
-- **[Enhanced Grid Panel](https://github.com/kvaron/kvaron-enhancedgrid-panel)**: Advanced data table for Grafana with conditional formatting, cell highlighting, server-side operations, and rich data presentation. Built for operational dashboards where data density and readability matter.
-
 ### Power Systems Solvers
 
 A production-grade C# solver library covering power flow (Newton-Raphson, Fast Decoupled, HELM, DC), optimal dispatch (DC/AC/LPAC/PTDF OPF, unit commitment), and grid analysis (N-1 contingency, LMP pricing, short circuit, state estimation). Built on CSparse.NET and HiGHS with SIMD acceleration and multi-core parallelism.
+
+---
+
+## Open Source
+
+- **[Enhanced Grid Panel](https://github.com/kvaron/kvaron-enhancedgrid-panel)**: Advanced data table for Grafana with conditional formatting, cell highlighting, server-side operations, and rich data presentation. Built for operational dashboards where data density and readability matter.
 
 ---
 
